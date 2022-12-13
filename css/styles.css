@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(245,110,179,0.25);
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgba(203, 28, 141, 0.6);
+    border-width: 5px;
+    width: 5%;
+}
+img {
+    height: 150px;
+}
+h1 {
+    color: #7F167F;
+    font-family: "DejaVu Sans Mono", sans-serif;
+}
+h3 {
+    color: #460C68;
+}
+thead {
+    color: #460C68;
+}
